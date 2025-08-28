@@ -1,3 +1,5 @@
 # Resume
 
-This repository has all of my fully developed projects. Each of them have their own writeups that have detailed information on how they were designed and built. 
+Hello! My name is Eliott Lacomme Ruiz and I am currently a Junior at Northwestern Univerisy studying electrical engineering. 
+
+This is my project repository. Each of my projects have their own writeups (as pdfs) that have detailed information on how they were designed and built. Thank you for taking a look and enjoy!
